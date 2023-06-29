@@ -1,0 +1,1 @@
+The modified code for the Detect section is located in lines 36 to 105 of yolo.py. The original Detect section code has been commented out and can be found in lines 149 to 195 of yolo.py. When testing with the improved weights before and after modification, or when performing single image detection, the corresponding Detect section code needs to be used.
